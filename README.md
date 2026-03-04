@@ -91,6 +91,6 @@ ab-test-analysis/
 
 ## About Me
 
-I'm Hassan, a student targeting Data roles. This project is part of my portfolio as I move from studying data concepts to actually applying them on real datasets.
+I'm Hassan, a Erasmus student targeting Data roles. This project is part of my portfolio as I move from studying data concepts to actually applying them on real datasets.
 
 Feel free to connect or give feedback — always looking to improve.
