@@ -49,22 +49,16 @@ The 0.16% difference is most likely random noise, not a genuine improvement. And
 
 ## How To Run
 
-1. Clone the repo
-```bash
-git clone https://github.com/hassan/ab-test-analysis.git
-cd ab-test-analysis
-```
-
-2. Install dependencies
+1. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Add the dataset
+2. Add the dataset
    - Download `ABdata.csv` from [Kaggle A/B Testing Dataset](https://www.kaggle.com/datasets/zhangluyuan/ab-testing)
    - Place it in the root folder
 
-4. Open the notebook
+3. Open the notebook
 ```bash
 jupyter notebook testing_notebook.ipynb
 ```
