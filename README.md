@@ -5,11 +5,11 @@ This was my first end-to-end A/B testing project. I wanted to take something I h
 
 ## What This Project Is About
 
-A company ran an experiment — they showed some users their **old landing page** and others a **new landing page**, then tracked who converted (signed up / bought).
+A company ran an experiment, they showed some users their **old landing page** and others a **new landing page**, then tracked who converted (signed up / bought).
 
 My job was to answer one question:
 
-> **Is the new page actually better — or is the difference just random chance?**
+> **Is the new page actually better, or is the difference just random chance?**
 
 ## What I Did
 
@@ -35,7 +35,7 @@ My job was to answer one question:
 
 **Verdict: Do not launch the new page.**
 
-The 0.16% difference is most likely random noise — not a genuine improvement. And thanks to the power analysis, I know this isn't a sample size problem. With 145K users per group we had more than enough to detect even a +0.5% lift.
+The 0.16% difference is most likely random noise, not a genuine improvement. And thanks to the power analysis, I know this isn't a sample size problem. With 145K users per group we had more than enough to detect even a +0.5% lift.
 
 
 ## Tools & Libraries
